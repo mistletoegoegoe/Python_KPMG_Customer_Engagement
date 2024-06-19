@@ -30,4 +30,10 @@ Dataset KPMG.xlsx includes one table containing transaction information of custo
 <img width="629" alt="image" src="https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis/assets/121160527/41818b12-8dfa-48b9-b6e0-b87f2ac5b7cc">
 
 ## V. Insights
+- Retention rate remains stable, ranging from 31% to 45% over time. However, the number of customers who made the first purchase falls significantly, from 1347 (January, 2017) to 4 (December, 2017).
+- In the time frame from April to July, 2017, the number of customers who made the first purchass has tendency to retain longer than the other groups. Specifically, 48.1% after five months since July 2017, 45.1% after four months since April 2017.
+- The retention rate of customers who placed their first order in January, February and March were consistently fluctuated in the range of 33% to 43%. While, this figure in August, September and October appeared to vary significantly, especially in Auguest: 43.1% in the 3rd month but 25.5% in the 5th month.
 ## VI. Recommendations
+- The retention rate was remained stabably over customer's lifetime at KPMG. In contrast, the number of customers who place the first order declines. This raised the need to collect more data about the context of the past in terms of promotions, seasonal event, product quality changes, etc to analyse deeper regarding the cause of this issue, plus the effectiveness of marketing campaigns.
+- Dig deeper in the characteristics of the mid-year months (April-July) groups which had the highest retention rate, so the company would offer them deals or new marketing activities for other groups. 
+

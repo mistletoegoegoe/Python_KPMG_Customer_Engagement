@@ -12,10 +12,22 @@ Dataset KPMG.xlsx includes one table containing transaction information of custo
 
 - order_status = ‘Approved’ needed to be filtered before cohort analysis.
 
-
-## III. Data Cleaning
-### 1. Data correction
-### 2. Data completeness
-### 3. Data Aggregation
+## III. Cohort analysis introduction
+### Definition
+- Cohort analysis is a type of behavioral analytics in which you take a group of users, and analyze their usage patterns based on their shared traits to better track and understand their actions.
+- A cohort is simply a group of people with shared characteristics
+### Types of cohort analysis
+- Time cohorts: customers who signed up for a product or service during a particular time frame.
+- Behavior cohorts: customers who purchased a product or subscribed to service in the past.
+- Size cohorts: refer to the various sizes of customers who purchase the company’s products or services.
+### Cohort analysis in this project
+- This project concentrated on **Time cohorts**.
+- Customers would be divided into acquisition cohorts depending on the month of their first purchase (cohort month)
+- The cohort index would then be assigned to each of the customer’s purchases, which would represent the number of months since the first transaction
 ## IV. Visualisation 
-## V. Recommendations
+<img width="626" alt="image" src="https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis/assets/121160527/1a39d54b-0f72-4b4f-a40e-b48aabe5a424">
+
+<img width="629" alt="image" src="https://github.com/mistletoegoegoe/Python_KPMG_Data_Analysis/assets/121160527/41818b12-8dfa-48b9-b6e0-b87f2ac5b7cc">
+
+## V. Insights
+## VI. Recommendations

@@ -1,4 +1,6 @@
 # Python_KPMG_Data_Analysis
+![image](https://github.com/user-attachments/assets/85f438f9-a5ed-4ad3-acc4-ad71a954ed04)
+
 ## I. Introduction
 The project was about conduting cohort analysis to obtain the insights about customer engagement from their first transaction for KPMG retailer. 
 ## II. Data Understanding
